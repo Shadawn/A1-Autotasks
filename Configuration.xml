@@ -28,7 +28,7 @@
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>6c549a02-0174-48dd-a120-ef26d2aff761</xr:ObjectId>
+				<xr:ObjectId>066fc834-0b1a-44a3-b481-096628c83e34</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>2021-01-19</Version>
+			<Version>2021-01-21</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -65,6 +65,8 @@
 			<Language>Русский</Language>
 			<CommonModule>А1Автозадачи</CommonModule>
 			<CommonModule>А1Автозадачи_А1СписокМеханизмов</CommonModule>
+			<CommonModule>А1Автозадачи_Источники</CommonModule>
+			<CommonModule>А1Автозадачи_Задачи</CommonModule>
 			<InformationRegister>А1Автозадачи</InformationRegister>
 		</ChildObjects>
 	</Configuration>

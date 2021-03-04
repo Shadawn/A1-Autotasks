@@ -52,14 +52,13 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>1.0.1 - 2021-02-09</Version>
+			<Version>1.1.1 - 2021-03-04</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
 			<VendorInformationAddress/>
 			<ConfigurationInformationAddress/>
-			<InterfaceCompatibilityMode>TaxiEnableVersion8_2</InterfaceCompatibilityMode>
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>

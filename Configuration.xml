@@ -39,7 +39,7 @@
 					<v8:content>А1Автозадачи</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment/>
+			<Comment>[SemVer]</Comment>
 			<ConfigurationExtensionPurpose>Customization</ConfigurationExtensionPurpose>
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<KeepMappingToExtendedConfigurationObjectsByIDs>true</KeepMappingToExtendedConfigurationObjectsByIDs>
@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>1.1.1 - 2021-03-04</Version>
+			<Version>1.2.0+2021-04-06</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>

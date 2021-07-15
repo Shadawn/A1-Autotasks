@@ -36,7 +36,7 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>А1 автозадачи</v8:content>
+					<v8:content>(А1: Автозадачи)</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -73,7 +73,7 @@
 							<v8:content>Источник</v8:content>
 						</v8:item>
 					</Synonym>
-					<Comment/>
+					<Comment>А1Э_Идентификатор</Comment>
 					<Type>
 						<v8:Type>xs:string</v8:Type>
 						<v8:StringQualifiers>
@@ -284,7 +284,7 @@
 							<v8:content>Задача</v8:content>
 						</v8:item>
 					</Synonym>
-					<Comment/>
+					<Comment>А1Э_Идентификатор</Comment>
 					<Type>
 						<v8:Type>xs:string</v8:Type>
 						<v8:StringQualifiers>
